@@ -1,3 +1,4 @@
 # RayTracer
 
-![image1](https://github.com/jkvnguyen/RayTracer/blob/master/testing/PIC1.TIFF)
+<a href="https://github.com/erinvarey/erinvarey.github.io/blob/master/img/NET.jpg"> </a>
+[!test](https://github.com/erinvarey/erinvarey.github.io/blob/master/img/NET.jpg)
