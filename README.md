@@ -1,6 +1,6 @@
 # Ray Tracer
 
-Partial implementation of a Ray Tracer for my __Introduction to 3D Computer Graphics__ course with multiple different renderings.
+Partial implementation of a ray tracer for my __Introduction to 3D Computer Graphics__ course with multiple different renderings.
 
 #### 3D Shapes <br>
 ![Sphere Render](testing/PIC1.png)
